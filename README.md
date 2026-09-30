@@ -1,6 +1,12 @@
-![Plataforma](https://img.shields.io/badge/Plataforma-Android-green)
-![Lenguaje](https://img.shields.io/badge/Lenguaje-Kotlin-purple)
-![UI](https://img.shields.io/badge/UI-JetpackCompose-blue)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-red)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-green)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-yellow)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-green)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-red)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-yellow)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-red)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-green)
+![Tipo](https://img.shields.io/badge/Tipo-Prueba-yellow)
 
 # FAKE - Kaiju
 
